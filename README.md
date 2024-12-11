@@ -36,7 +36,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="14094389894729438420" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/dandadan-op-dandadan-ken-takakura-dandadan-ken-takakura-and-momo-ayase-dandadan-momo-ayase-dandadan-okarun-and-momo-gif-14094389894729438420">Dandadan Op Dandadan Ken Takakura GIF</a>from <a href="https://tenor.com/search/dandadan+op-gifs">Dandadan Op GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/qXkCn8DtVT6.gif" />
 
 ###
 
