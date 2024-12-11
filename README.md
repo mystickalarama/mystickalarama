@@ -36,10 +36,6 @@
 
 ###
 
-<img src="https://tenor.com/qXkCn8DtVT6.gif" />
-
-###
-
 <div align="left">
 </div>
 
