@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sinan Kerem Doğan and I'm a Software Developer from İstanbul</p>
+<p align="left">My name is Sinan Kerem Doğan and I'm a Software Developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🖥️I'm working on developing a project management tool and creating a Japanese keyboard project.<br>📚 I'm currently learning javascript applications<br>🎯 Goals: Become a versatile developer with expertise in multiple areas<br>🎲 Fun fact: I'm a beginner violinist, and my goal is to create music for a game I develop.</p>
+<p align="left">🖥️I'm working on developing a project management tool and a social media project.<br>📚 I'm currently learning next.js applications<br>🎯 Goals: Become a versatile developer with expertise in multiple areas<br>🎲 Fun fact: I'm a beginner violinist, and my goal is to create music for a game I develop.</p>
 
 ###
 
